@@ -1,5 +1,8 @@
 _repo: Two-Christmas-Stories-Sam-Franklin-s-Savings-Bank-A-Miserable-Christmas-and-a-Happy-New-Year_65830
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65830-h/images/cover.jpg
 creator:
   author:
     agent_name: Stretton, Hesba
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2440
     wikipedia: https://en.wikipedia.org/wiki/Hesba_Stretton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65830#Two-Christmas-Stories-Sam-Franklin-s-Savings-Bank-A-Miserable-Christmas-and-a-Happy-New-Year
 gutenberg_issued: '2021-07-12'
 gutenberg_type: Text
 identifiers:
